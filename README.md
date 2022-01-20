@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on ITEA, a webapp for reservations centres (as en employee) & https://www.aoe4analytics.com (personnal project)
 
-- 📫 Reach me @**yohann.bethoule@gmail.com**
+📫 Reach me @**yohann.bethoule@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 
 
-🔭 I’m currently working on ITEA, a webapp for reservations centres (as en employee) & https://www.aoe4analytics.com (personnal project)
+🔭 I’m currently working as a full-stack web developer in Go and React, developping tools for real estate sales and rental websites.
 
 📫 Reach me @**yohann.bethoule@gmail.com**
 

@@ -44,10 +44,7 @@
 <h3 align="left">Github stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannbethoule&show_icons=true&locale=en&layout=compact" alt="yohannbethoule" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannbethoule&show_icons=true&locale=en" alt="yohannbethoule" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannbethoule&" alt="yohannbethoule" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohannbethoule" alt="yohannbethoule" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannbethoule&label=Profile%20views&color=0e75b6&style=flat" alt="yohannbethoule" /> </p>
